@@ -1,6 +1,3 @@
-//Krysta Parker
-//Program #2
-
 //Using at least two structures and one enum (create a .h file and include it in your program)
 //1.Store at least 3 different course data in a file with the following information: Course name, Course ID, Meeting Day(s), and Times along with Location (Building & Room).
 //  The file should be structured with each course on a separate line and each data item separated by a comma.
